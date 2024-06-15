@@ -314,7 +314,7 @@ function App() {
             <div  className="flex flex-col gap-1 items-center justify-center">
               <UilEnvelopeMinus/>
               <h1 className="font-bold">Email</h1>
-              <p>surajofficial602@gmail.com</p>
+              <p className="text-center pr-2">surajofficial602@gmail.com</p>
             </div>
             <div  className="flex flex-col gap-1 items-center justify-center">
               <UilInstagram/>
